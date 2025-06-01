@@ -1,1 +1,1 @@
-# Business-Email-Compromise-BEC-
+# Business Email Compromise BEC
